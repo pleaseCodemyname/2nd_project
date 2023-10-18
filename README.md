@@ -70,7 +70,9 @@
 > - YoutubeAPI를 통해 가져온 데이터를  MongoDB에 저장 했고, JSON -> List 데이터 가공 후 도시별 언급 횟수 및 그래프 생성까지 진행했습니다.
 <br/>
 
-###  ✔ 실행 화면 🛬
+### ✔ 실행 화면 🛬
+**메인페이지**
+
 | 메인 페이지  |  크롤링 페이지   |
 | :-------------------------------------------: | :------------: |
 |  <img width="300" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png"/> |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
@@ -79,7 +81,8 @@
 | 2022년도 데이터   |  2023년도 데이터   |  
 | <img width="300" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2022_data.png"/>   |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2023_data.png"/>     |  
 | **전체 데이터 비교 그래프** |
-|![전체 데이터 비교 그래프](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/final_combined_graph.png) 
+| ![전체 데이터 비교 그래프](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/final_combined_graph.png) |
+
 
 
 

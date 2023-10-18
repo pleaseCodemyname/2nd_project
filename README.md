@@ -54,16 +54,16 @@
 <br/>
 
 ### ✔ 아키텍처
-![그림](https://github.com/pleaseCodemyname/2nd_project/blob/main/architecture.png) 
+![그림](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/architecture.png) 
 > - PYTHON FastAPI를 활용하여 기능구현 ( YoutubeAPI를 활용한 크롤링, DB연결, 데이터 가공, 웹 프로그래밍 )
 <br/>
 
 ### ✔ API 설계서
-![API설계서1](https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_Project_API(1).png)
-![API설계서2](https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_Project_API(2).png)
-![API설계서3](https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_Project_API(3).png)
-![API설계서4](https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_Project_API(4).png)
-![API설계서5](https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_Project_API(5).png)
+![API설계서1](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_Project_API(1).png)
+![API설계서2](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_Project_API(2).png)
+![API설계서3](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_Project_API(3).png)
+![API설계서4](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_Project_API(4).png)
+![API설계서5](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_Project_API(5).png)
 ###  ✔ 개발 과정
 
 > - 크롤링한 데이터의 특정도시의 언급 횟수를 Count하거나 그래프를 만들어 시각화를 하려면 From Json To List로 전환하는 가공하는 작업이 필요했습니다.
@@ -73,7 +73,7 @@
 ###  ✔ 실행 화면
 | 메인 페이지  |  실행 페이지(1)   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_proj(1).png"/> | <img width="329" src=""/>|
+|  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_proj(1).png"/> | <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
 
 <br/>
 

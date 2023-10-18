@@ -181,7 +181,7 @@ async def find_year_data(year: int):
 async def get_combined_graph():
     plt.rcParams['font.family'] = 'AppleGothic'
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.relpath("./")))
-    secret_file = os.path.join(BASE_DIR, "../secret.json")
+    secret_file = os.path.join(BASE_DIR, "secret.json")
 
     with open(secret_file) as f:
         secrets = json.load(f)

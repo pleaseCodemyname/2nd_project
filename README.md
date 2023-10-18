@@ -72,7 +72,7 @@
 
 ###  ✔ 실행 화면 🛬
 | 메인 페이지  |  크롤링 페이지   |
-| :-------------------------------------------: | :------------: | 
+| :-------------------------------------------: | :------------: |
 |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png"/> |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
 | 2018년도 데이터   |  2020년도 데이터   |  
 | <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2018_data.png"/>   |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2020_data.png"/>     |  

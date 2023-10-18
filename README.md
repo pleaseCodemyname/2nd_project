@@ -15,7 +15,7 @@
 ```
 # pip install --upgrade pip
 # pip install fastapi uvicorn google-api-python-client pymongo matplotlib pandas numpy
-# uvicorn main:app --host 0.0.0.0 --port 2750 --reload
+# uvicorn main:app --host 0.0.0.0 --port 3290 --reload
 ```
 <br/>
 
@@ -73,11 +73,11 @@
 ###  ✔ 실행 화면 🛬
 | 메인 페이지  |  크롤링 페이지   |
 | :-------------------------------------------: | :------------: |
-|  <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png"/> |  <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
+|  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png"/> |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
 | 2018년도 데이터   |  2020년도 데이터   |  
-| <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2018_data.png"/>   |  <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2020_data.png"/>     |  
+| <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2018_data.png"/>   |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2020_data.png"/>     |  
 | 2022년도 데이터   |  2023년도 데이터   |  
-| <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2022_data.png"/>   |  <img width="275" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2023_data.png"/>     |  
+| <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2022_data.png"/>   |  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2023_data.png"/>     |  
 **전체 데이터 비교 그래프** 
 |![전체 데이터 비교 그래프](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/final_combined_graph.png) 
 

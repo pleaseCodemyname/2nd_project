@@ -70,10 +70,10 @@
 > - YoutubeAPI를 통해 가져온 데이터를  MongoDB에 저장 했고, JSON -> List 데이터 가공 후 도시별 언급 횟수 및 그래프 생성까지 진행했습니다.
 <br/>
 
-###  ✔ 실행 화면
+###  ✔ 실행 화면 🛬
 | 메인 페이지  |  실행 페이지(1)   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/2nd_proj(1).png"/> | <img width="329" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|
+|  <img width="500" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png"/> |  <img width="500" src="https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png"/>|  
 
 <br/>
 

@@ -71,25 +71,32 @@
 <br/>
 
 ###  ✔ 실행 화면 🛬
+---
+### ✈️메인페이지
 ![메인페이지](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(1).png)
+<br>
+### ✈️크롤링페이지
 ![크롤링페이지](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(2).png)
+<br>
+### ✈️크롤링페이지2
 ![크롤링페이지2](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2nd_proj(3).png)
+<br>
+### ✈️2018년도데이터
 ![2018년도데이터](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2018_data.png)
+<br>
+### ✈️2020년도데이터
 ![2020년도데이터](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2020_data.png)
+<br>
+### ✈️2022년도데이터
 ![2022년도데이터](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2022_data.png)
+<br>
+### ✈️2023년도데이터
 ![2023년도데이터](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/2023_data.png)
+<br>
+### ✈️전체데이터비교그래프
 ![전체데이터비교그래프](https://github.com/pleaseCodemyname/2nd_project/blob/main/images/final_combined_graph.png)
-<!-- 
-| 메인 페이지  |  크롤링 페이지   |
-| :-------------------------------------------: | :------------: |
-|  <img width="329" src=""/> |  <img width="329" src=""/>|
-| 2018년도 데이터   |  2020년도 데이터   |  
-| <img width="329" src=""/>   |  <img width="329" src=""/>     |  
-| 2022년도 데이터   |  2023년도 데이터   |  
-| <img width="329" src=""/>   |  <img width="329" src=""/>     |  
-**전체 데이터 비교 그래프** 
-|![전체 데이터 비교 그래프]()  -->
 <br/>
-
+---
 ###  ✔ 개선 방향
+---
 > - 일본 인기 여행지 뿐만 아니라 각국 여행지를 포함하여 데이터를 분석하고 시각화 할 수 있으면 더 좋은 서비스가 될 것이라 생각합니다.

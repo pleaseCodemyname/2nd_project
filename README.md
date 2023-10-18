@@ -62,8 +62,8 @@
 <br/>
 
 ### ✔ 아키텍처
-![그림]
-> - PYTHON FastAPI를 활용하여 기능구현 ( YoutubeAPI를 활용한 크롤링, DB연결, 데이터 가공, 웹 프로그래밍 )
+![그림](https://github.com/pleaseCodemyname/2nd_project/blob/main/architecture.png) 
+- PYTHON FastAPI를 활용하여 기능구현 ( YoutubeAPI를 활용한 크롤링, DB연결, 데이터 가공, 웹 프로그래밍 )
 <br/>
 
 ###  ✔ 개발 과정

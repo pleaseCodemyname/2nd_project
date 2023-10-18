@@ -23,7 +23,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # secret.json 파일에서 API 키를 가져옵니다.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.relpath("./")))
-secret_file = os.path.join(BASE_DIR, "../secret.json")
+secret_file = os.path.join(BASE_DIR, "secret.json")
 
 with open(secret_file) as f: 
     secrets = json.load(f)
@@ -46,7 +46,7 @@ youtube = build("youtube", "v3", developerKey=api_key)
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root():
-    return FileResponse("static/index2.html")
+    return FileResponse("static/index.html")
 
 # FastAPI1(유튜브에서 일본여행을 검색했을때의 영상의 제목, 조회수, 게시날짜 및 Tag 가져오기)
 @app.get("/youtube")
